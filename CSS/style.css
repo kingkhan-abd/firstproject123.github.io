@@ -1,0 +1,21 @@
+.box{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    display: inline-block; 
+    margin-right: -8px;
+    margin-top: -6px;
+    font-size: 140px; 
+    text-align: center;
+}
+.black{
+    background-color: goldenrod;
+    text-align: center;
+    
+ 
+}
+.mainbox{
+  margin-top: -8px;
+
+}
+
